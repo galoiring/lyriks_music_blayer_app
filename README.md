@@ -1,3 +1,6 @@
+# Project URL 
+   https://music-player-gal.netlify.app/
+   
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
